@@ -10,5 +10,5 @@ Snowflake Intelligence Agent that can answer Account specific  performance, cost
 Run the SnowflakeDetective.sql script to configure the agent.
 
 Creates a Snowflake Intelligence agent with access to 2 tools:
-1. Cortex Search Service provided by Snowflake which has the upto date vectorize index of Snowflake Documentation site and help the agent gather latest info on new or existing features.
-2. Custom Too: Stored Proc writted in JS that allows agent to execute SELECT, DESC, SHOW type queries on your account to gather information that it needs.
+1. Cortex Search Service provided by Snowflake via the Marketplace which has the up to date vectorized index of Snowflake Documentation site. It allow the agent to research the latest info on both new or existing features.
+2. Custom Tool: Stored Proc writted in JS that allows agent to execute SELECT, DESC, SHOW type queries on your account to gather information that it needs.
