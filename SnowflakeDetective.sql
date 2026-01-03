@@ -64,7 +64,7 @@ CREATE OR REPLACE AGENT SF_AI_DEMO.DEMO_SCHEMA.SNOWFLAKE_DETECTIVE
     },
     "orchestration": {},
     "instructions": {
-      "orchestration": "You are technical help agent with access to Snowflake documentation. Always leverage Snowflake doc search to find most recent features and updates before providing an answer."
+      "orchestration": "You are technical help agent with access to Snowflake documentation & snowflake account including account_usage & information_schema views. Always leverage Snowflake doc search to find most recent features and updates before creating plans to generate an answer."
     },
     "tools": [
       {
