@@ -1,5 +1,5 @@
 # Snowflake_AI_Detective
-Snowflake Intelligence Agent that can answer Account specific  performance, cost, optimization, config/setup and architectural related questions.
+Snowflake Intelligence Agent that can answer Account specific performance, cost, optimization, config/setup and architectural related questions.
 
 ## Prerequisite: 
 - Browse Marketplace as AccountAdmin then Search for "Snowflake Docs" and GET the free snowflake-snowflake-documentation service on to your account using default options
