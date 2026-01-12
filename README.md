@@ -3,7 +3,7 @@ Snowflake Intelligence Agent that can answer Account specific performance, cost,
 
 ## Prerequisite: 
 - Browse Marketplace as AccountAdmin then Search for "Snowflake Docs" and GET the free snowflake-snowflake-documentation service on to your account using default options
-- This is the marketpalce URL to get the service: https://app.snowflake.com/marketplace/listing/GZSTZ67BY9OQ4/snowflake-snowflake-documentation
+- This is the marketplace URL that it uses to get the service: https://app.snowflake.com/marketplace/listing/GZSTZ67BY9OQ4/snowflake-snowflake-documentation
 
   
 
